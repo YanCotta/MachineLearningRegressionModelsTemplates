@@ -1,20 +1,7 @@
 # Machine Learning Regression Model Templates
 
 ## Overview
-This repository provides production-ready templates for implementing common machine learning regression algorithms. Each template is designed with best practices in mind and includes detailed documentation to help practitioners understand both the implementation and theoretical aspects of each model.
-
-## Example Dataset
-An example dataset is provided to demonstrate the usage of the energy consumption prediction model. The dataset includes:
-
-- Input variables (features):
-  - Air temperature
-  - Humidity 
-  - And other relevant environmental factors
-
-- Target variable:
-  - Energy consumption (last column)
-
-Note: This is just a sample dataset for demonstration purposes. For real applications, you should use your own data.
+This repository provides production-ready templates for implementing common supervised machine learning regression algorithms. Each template is designed with best practices in mind and includes detailed documentation to help practitioners understand both the implementation and theoretical aspects of each model.
 
 ## Models Included
 
