@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Dataset preparation
+# Dataset preparation:
 # Ensure your CSV file has features in columns and target in the last column
 dataset = pd.read_csv('Data.csv')  # Replace with your dataset filename
 X = dataset.iloc[:, :-1].values

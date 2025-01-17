@@ -167,8 +167,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 Project Link: [https://github.com/YanCotta/SupervisedMLRegressionModelsTemplates](https://github.com/YanCotta/SupervisedMLRegressionModelsTemplates)
-
-## ⭐ Acknowledgments
-- scikit-learn documentation
-- Machine Learning mastery guides
-- Python Data Science Handbook

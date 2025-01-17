@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Data preprocessing steps
+# Data preprocessing steps:
 # X: feature matrix, y: target vector
 dataset = pd.read_csv('Data.csv')  # Replace with your dataset filename
 X = dataset.iloc[:, :-1].values
